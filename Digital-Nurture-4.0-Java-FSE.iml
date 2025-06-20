@@ -5,6 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Week 1/DataStructureandAlgorithm/InventoryManagementSystem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/DataStructureandAlgorithm/Ecommerce/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/DataStructureandAlgorithm/FinancialForecasting/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/DesignPattern/FactoryMethodPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/DesignPattern/SingletonPattern/Code" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
