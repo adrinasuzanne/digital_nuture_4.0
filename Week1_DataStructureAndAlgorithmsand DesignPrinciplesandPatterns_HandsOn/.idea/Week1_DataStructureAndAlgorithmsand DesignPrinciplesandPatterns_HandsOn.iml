@@ -7,6 +7,15 @@
       <sourceFolder url="file://$MODULE_DIR$/DataStructureandAlgorithm/LibraryManagement/Code" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DataStructureandAlgorithm/SortingCustomerOrders/Code" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DataStructureandAlgorithm/TaskManagement/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/AdapterPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/BuilderPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/CommandPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/DecoratorPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/DependencyInjection/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/MVCPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/ObserverPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/ProxyPattern/Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern/StrategyPettern/Code" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
